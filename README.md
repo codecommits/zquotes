@@ -4,4 +4,4 @@
 
 Collection of amazing quotes
 
-Download [JSON File](http://mubaris.github.io/Zquotes/quotes.json)
+Download [JSON File](http://codecommit.co/zquotes/quotes.json)
