@@ -4,4 +4,4 @@
 
 Collection of amazing quotes
 
-Download [JSON File](http://codecommit.co/zquotes/quotes.json)
+Download [JSON File](http://codecommits.github.io/zquotes/quotes.json)
